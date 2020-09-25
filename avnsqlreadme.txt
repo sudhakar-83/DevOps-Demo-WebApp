@@ -1,4 +1,4 @@
-SQL Commands - Testing POL SCM
+SQL Commands - Testing POL SCM Check
 ------------
 
 SELECT  *FROM avn;
